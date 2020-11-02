@@ -59,5 +59,3 @@ I don't know how to do this right, but here's a list of the useful libraries and
 * [Java Swing Library](https://en.wikipedia.org/wiki/Swing_(Java))
 * [National Weather Service Forecast Data API](https://www.weather.gov/documentation/services-web-api)
 * [Unirest Java HTTP Client Library](http://kong.github.io/unirest-java/)
-
-We'd also like to acknowledge our parents and stuff. Thanks, y'all.
