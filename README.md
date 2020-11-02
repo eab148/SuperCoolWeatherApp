@@ -3,7 +3,7 @@
 Super Cool Weather App is... a super cool weather app that enables anyone to look up the current
 weather and 7-day forecast for any location in the United States.
 ## Prerequisites
-Before you begin, makes sure you've done the following:
+Before you begin, make sure you've done the following:
 * Installed the [latest version of java](https://www.java.com/en/)
 
 If you simply want to run the program, then you should be set! Simply download and run
